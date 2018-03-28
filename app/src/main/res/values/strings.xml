@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AulaAndroid2804</string>
+    <string name="title_activity_segunda">SegundaActivity</string>
+    <string name="chamarSegundaTela">Chamar Segunda Tela</string>
+</resources>
