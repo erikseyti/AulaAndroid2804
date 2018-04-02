@@ -23,10 +23,10 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
         listViewTimes = (ListView) findViewById(R.id.listTimes);
 
-        String times[] = {"Flamengo", "ACP", "Internacional", "Avai"};
+        //String times[] = {"Flamengo", "ACP", "Internacional", "Avai"};
 
-        ArrayAdapter<String> adapterTimes =
-                new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,times);
+        //ArrayAdapter<String> adapterTimes =
+          //      new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,times);
 
         List<Time> listaTimes = new ArrayList<>();
         listaTimes.add(new
